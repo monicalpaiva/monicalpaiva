@@ -8,12 +8,12 @@
 <img margin="20px"; src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicalpaiva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fefefe&bg_color=151515" alt="Statistics"/>
 </p>
 
-💬 Linguagens já estudada: <br>
-<table margin: inherit>
+<p align="center"> 💬 Linguagens já estudada: </p>
+<table align="center">
     <tr>
         <th>Linguagem</th>
         <th>Barra de progresso em curso</th>
-        <th>Porcentagem</th>
+        <th>Porcentagem de conhecimento</th>
     </tr>
     <tr>
         <td>HTML</td>
