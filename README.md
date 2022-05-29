@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oi!! Meu nome é Monica e estou aqui para aprender! 👋
 
 <!--
 **monicalpaiva/monicalpaiva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
