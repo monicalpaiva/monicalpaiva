@@ -4,8 +4,8 @@
 </br>
 <h2 align="center">💻 Uma visão geral do Github 💻</h2>
 <p align="center">
-<img margin="20px" src=https://github-readme-stats.vercel.app/api?username=monicalpaiva&theme=merko&show_icons=true alt="Statistics"/>
-<img margin="20px"; src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicalpaiva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fefefe&bg_color=151515" alt="Statistics"/>
+<img src=https://github-readme-stats.vercel.app/api?username=monicalpaiva&theme=merko&show_icons=true alt="Statistics"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicalpaiva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fefefe&bg_color=151515" alt="Statistics"/>
 </p>
 
 <p align="center"> 💬 Linguagens já estudada: </p>
@@ -62,3 +62,8 @@
     </tr>
 </table>
 <p  align="center"> Atualizado em 29/05/2022
+
+<p align="center"> 
+  Visitantes<br>
+  <img src="https://profile-counter.glitch.me/monicalpaiva/count.svg"/>
+</p>
