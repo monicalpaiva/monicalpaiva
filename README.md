@@ -8,8 +8,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicalpaiva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fefefe&bg_color=151515" alt="Statistics"/>
 </p>
 
-[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=monicalpaiva&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast
-
 <p align="center"> 💬 Linguagens já estudada: </p>
 <table align="center">
     <tr>
@@ -89,4 +87,11 @@
   <img src="https://profile-counter.glitch.me/monicalpaiva/count.svg"/>
    
 </p>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
 <h1  align="center"> Atualizado em 29/05/2022 </h1>
