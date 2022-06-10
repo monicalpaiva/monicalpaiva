@@ -8,7 +8,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicalpaiva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fefefe&bg_color=151515" alt="Statistics"/>
 </p>
 
-[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=monicalpaiva&repo=github-readme-stats&cache_seconds=86400&theme=default
+[default_repo]: https://github-readme-stats.vercel.app/api/pin/?username=monicalpaiva&repo=github-readme-stats&cache_seconds=86400&theme=highcontrast
 
 <p align="center"> 💬 Linguagens já estudada: </p>
 <table align="center">
