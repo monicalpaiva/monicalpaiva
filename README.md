@@ -65,8 +65,8 @@
     </tr>
       <tr>
         <td>Potigol</td>
-        <td>████░░░░░░░░░░░░░░░░</td>
-        <td>20%</td>
+        <td>████████░░░░░░░░░░</td>
+        <td>40%</td>
         <td><img height="64px" src="https://pbs.twimg.com/profile_images/932637501977710592/WMGBmW7k_400x400.jpg"></td>
     </tr>
     <tr>
