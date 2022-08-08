@@ -65,8 +65,8 @@
     </tr>
       <tr>
         <td>Potigol</td>
-        <td>████████░░░░░░░░░░</td>
-        <td>40%</td>
+        <td>████████████████</td>
+        <td>100%</td>
         <td><img height="64px" src="https://pbs.twimg.com/profile_images/932637501977710592/WMGBmW7k_400x400.jpg"></td>
     </tr>
     <tr>
@@ -94,4 +94,4 @@
   
 </div>
 
-<h1  align="center"> Atualizado em 28/07/2022 </h1>
+<h1  align="center"> Atualizado em 08/08/2022 </h1>
