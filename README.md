@@ -65,7 +65,7 @@
     </tr>
       <tr>
         <td>Potigol</td>
-        <td>████████████████</td>
+        <td>████████████████████</td>
         <td>100%</td>
         <td><img height="64px" src="https://pbs.twimg.com/profile_images/932637501977710592/WMGBmW7k_400x400.jpg"></td>
     </tr>
