@@ -35,8 +35,8 @@
     </tr>
       <tr>
         <td>JavaScript</td>
-        <td>████░░░░░░░░░░░░░░░░</td>
-        <td>20%</td>
+        <td>██████████░░░░░░░░░░</td>
+        <td>50%</td>
         <td><img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"></td>
     </tr>
        <tr>
