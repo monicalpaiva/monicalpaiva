@@ -2,11 +2,7 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Vamos aprender juntos e sempre compartilhar conhecimento para melhorar o mundo juntos!!! 
 
 </br>
-<h2 align="center">💻 Uma visão geral 💻</h2>
-<p align="center">
-<img src=https://github-readme-stats.vercel.app/api?username=monicalpaiva&theme=vue-dark&show_icons=true&count_private=true alt="Statistics"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicalpaiva&show_icons=true&title_color=fff&icon_color=79ff97&text_color=fefefe&bg_color=151515" alt="Statistics"/>
-</p>
+
 
 <p align="center"> 💬 Linguagens já estudada: </p>
 <table align="center">
