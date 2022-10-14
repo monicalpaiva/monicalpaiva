@@ -11,6 +11,12 @@
         <th>Barra de progresso em curso</th>
         <th>Porcentagem de conhecimento</th>
     </tr>
+     <tr>
+        <td>Potigol</td>
+        <td>████████████████████</td>
+        <td>100%</td>
+        <td><img height="64px" src="https://pbs.twimg.com/profile_images/932637501977710592/WMGBmW7k_400x400.jpg"></td>
+    </tr>
     <tr>
         <td>HTML</td>
         <td>████████████████████</td>
@@ -23,17 +29,23 @@
         <td>100%</td>
         <td><img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"/></td>
     </tr>
-    <tr>
-        <td>Less</td>
-        <td>██████░░░░░░░░░░░░░░</td>
-        <td>30%</td>
-        <td><img height="64px" src="https://cdn.svgporn.com/logos/less.svg"></td>
-    </tr>
-      <tr>
+          <tr>
         <td>JavaScript</td>
         <td>██████████░░░░░░░░░░</td>
         <td>50%</td>
         <td><img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"></td>
+    </tr>
+          <tr>
+        <td>Python</td>
+        <td>████░░░░░░░░░░░░░░░░</td>
+        <td>20%</td>
+        <td><img height="64px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></td>
+    </tr>
+        <tr>
+        <td>PHP</td>
+        <td>██████░░░░░░░░░░░░░░</td>
+        <td>30%</td>
+       <td><img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></td>
     </tr>
        <tr>
         <td>Git</td>
@@ -42,28 +54,17 @@
         <td><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"></td>
     </tr>
     <tr>
+        <td>Less</td>
+        <td>██████░░░░░░░░░░░░░░</td>
+        <td>30%</td>
+        <td><img height="64px" src="https://cdn.svgporn.com/logos/less.svg"></td>
+    </tr>
+
+    <tr>
         <td>Java</td>
         <td>██████░░░░░░░░░░░░░░</td>
         <td>30%</td>
         <td><img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></td>
-    </tr>
-      <tr>
-        <td>Python</td>
-        <td>████░░░░░░░░░░░░░░░░</td>
-        <td>20%</td>
-        <td><img height="64px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></td>
-    </tr>
-    <tr>
-        <td>PHP</td>
-        <td>██████░░░░░░░░░░░░░░</td>
-        <td>30%</td>
-       <td><img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></td>
-    </tr>
-      <tr>
-        <td>Potigol</td>
-        <td>████████████████████</td>
-        <td>100%</td>
-        <td><img height="64px" src="https://pbs.twimg.com/profile_images/932637501977710592/WMGBmW7k_400x400.jpg"></td>
     </tr>
     <tr>
         <td>C++</td>
@@ -90,4 +91,4 @@
   
 </div>
 
-<h1  align="center"> Atualizado em 10/10/2022 </h1>
+<h1  align="center"> Atualizado em 14/10/2022 </h1>
