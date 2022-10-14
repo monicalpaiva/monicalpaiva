@@ -29,7 +29,7 @@
         <td>100%</td>
         <td><img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"/></td>
     </tr>
-          <tr>
+    <tr>
         <td>JavaScript</td>
         <td>██████████░░░░░░░░░░</td>
         <td>50%</td>
@@ -47,7 +47,7 @@
         <td>30%</td>
        <td><img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></td>
     </tr>
-       <tr>
+    <tr>
         <td>Git</td>
         <td>██████████░░░░░░░░░░</td>
         <td>50%</td>
@@ -59,7 +59,6 @@
         <td>30%</td>
         <td><img height="64px" src="https://cdn.svgporn.com/logos/less.svg"></td>
     </tr>
-
     <tr>
         <td>Java</td>
         <td>██████░░░░░░░░░░░░░░</td>
