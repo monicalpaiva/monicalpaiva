@@ -42,16 +42,16 @@
         <td><img height="64px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></td>
     </tr>
         <tr>
-        <td>PHP</td>
-        <td>██████░░░░░░░░░░░░░░</td>
-        <td>30%</td>
-       <td><img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></td>
-    </tr>
-    <tr>
         <td>Git</td>
         <td>██████████░░░░░░░░░░</td>
         <td>50%</td>
         <td><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"></td>
+    </tr>
+        <tr>
+        <td>PHP</td>
+        <td>██████████░░░░░░░░░░</td>
+        <td>50%</td>
+       <td><img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></td>
     </tr>
     <tr>
         <td>Less</td>
