@@ -10,7 +10,7 @@
         <th  colspan="2">Linguagens</th>
         <th  colspan="2">Linguagens</th>
     </tr>
-   <tr>
+  <tr>
     <td>HTML</td>
     <td><img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"/></td>
     <td>CSS</td>
@@ -50,7 +50,7 @@
     <td>OCaml</td>
     <td><img height="64px" src="https://www.vectorlogo.zone/logos/ocaml/ocaml-ar21.svg"></td>
     <td>C++</td>
-    <td><strong>C++</strong></td>
+    <td><img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"></td>
 </tr>
 </table>
 <p align="center"> 
