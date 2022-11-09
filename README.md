@@ -35,10 +35,10 @@
     <td><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"></td>
 </tr>
 <tr>
-    <td>Python</td>
-    <td><img height="64px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></td>
     <td>PHP</td>
     <td><img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></td>
+    <td>Python</td>
+    <td><img height="64px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></td>
 </tr>
 <tr>
     <td>Java</td>
