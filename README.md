@@ -7,51 +7,43 @@
 <p align="center"> 💬 Linguagens já estudada: </p>
 <table align="center">
     <tr>
-        <th>Linguagem</th>
-        <th>Barra de progresso em curso</th>
-        <th>Porcentagem de conhecimento</th>
+        <th>Linguagens</th>
     </tr>
      <tr>
         <td>Potigol</td>
         <td><img height="64px" src="https://pbs.twimg.com/profile_images/932637501977710592/WMGBmW7k_400x400.jpg"></td>
-    </tr>
-    <tr>
+
         <td>HTML</td>
         <td><img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"/></td>
-    </tr>
-    <tr>
+
         <td>CSS</td>
         <td><img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"/></td>
     </tr>
     <tr>
         <td>JavaScript</td>
         <td><img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"></td>
-    </tr>
-        <tr>
+
         <td>Git</td>
         <td><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"></td>
     </tr>
         <tr>
         <td>PHP</td>
        <td><img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></td>
-    </tr>
-    <tr>
+
         <td>Python</td>
         <td><img height="64px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></td>
     </tr>
     <tr>
         <td>Less</td>
         <td><img height="64px" src="https://cdn.svgporn.com/logos/less.svg"></td>
-    </tr>
-    <tr>
+
         <td>Java</td>
         <td><img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></td>
     </tr>
     <tr>
         <td>C++</td>
         <td><strong>C++</strong></td>
-    </tr>
-    <tr>
+
       <td>OCaml</td>
       <td><img height="64px" src="https://www.vectorlogo.zone/logos/ocaml/ocaml-ar21.svg"></td>
     </tr>
