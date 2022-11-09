@@ -7,8 +7,7 @@
 <p align="center"> 💬 Linguagens já estudada: </p>
 <table align="center">
     <tr>
-        <th>Linguagens</th>
-        <th>Linguagens</th>
+        <th  colspan="2">Linguagens</th>
     </tr>
     <tr>
         <td>Potigol</td>
@@ -17,7 +16,8 @@
     <tr>
         <td>HTML</td>
         <td><img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"/></td>
-
+    </tr>
+    <tr>
         <td>CSS</td>
         <td><img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"/></td>
     </tr>
@@ -29,8 +29,8 @@
         <td>Git</td>
         <td><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"></td>
     </tr>
-        <tr>
-        <td>PHP</td>
+    <tr>
+       <td>PHP</td>
        <td><img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></td>
     </tr>
     <tr>
