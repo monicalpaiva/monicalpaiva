@@ -15,7 +15,7 @@
 </div><br/>
 
 
-<p align="center"> 💬 Linguagens já estudada: </p>
+## 💬 Linguagens já estudada: </p>
 <table align="center">
     <tr>
         <th  colspan="2">Linguagens</th>
@@ -42,8 +42,14 @@
 <tr> 
     <td>Node.js</td>
     <td><img height="64px" src="https://nodejs.org/static/images/logo.svg"></td>
+    <td>React</td>
+    <td><img height="64px" src="https://i.stack.imgur.com/kyKz5.png"></td>
+</tr>
+<tr> 
     <td>Git</td>
     <td><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"></td>
+    <td>Node.js</td>
+    <td><img height="64px" src="https://nodejs.org/static/images/logo.svg"></td>
 </tr>
 <tr>
     <td>PHP</td>
