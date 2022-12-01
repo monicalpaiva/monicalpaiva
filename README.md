@@ -43,7 +43,7 @@
     <td>Node.js</td>
     <td><img height="64px" src="https://nodejs.org/static/images/logo.svg"></td>
     <td>React</td>
-    <td><img height="64px" src="https://www.seekpng.com/png/detail/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png"></td>
+    <td><img height="64px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></td>
 </tr>
 <tr> 
     <td>Git</td>
