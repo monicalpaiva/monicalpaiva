@@ -43,13 +43,13 @@
     <td>Node.js</td>
     <td><img height="64px" src="https://nodejs.org/static/images/logo.svg"></td>
     <td>React</td>
-    <td><img height="64px" src="https://i.stack.imgur.com/kyKz5.png"></td>
+    <td><img height="64px" src="https://www.seekpng.com/png/detail/80-803597_io-is-compatible-with-all-javascript-frameworks-and.png"></td>
 </tr>
 <tr> 
     <td>Git</td>
     <td><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"></td>
-    <td>Node.js</td>
-    <td><img height="64px" src="https://nodejs.org/static/images/logo.svg"></td>
+    <td></td>
+    <td><img height="64px" src=""></td>
 </tr>
 <tr>
     <td>PHP</td>
