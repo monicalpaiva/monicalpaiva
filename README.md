@@ -79,7 +79,7 @@
         {
           "type": "Point",
           "properties": {"prop0": "value0"},
-          "coordinates": [4000, 5000]
+          "coordinates": [-5.74, -36.55]
         },
         {
           "type": "LineString",
