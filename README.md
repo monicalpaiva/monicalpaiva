@@ -1,4 +1,4 @@
-### Oi! Meu nome é Monica, graduada em Ciência e Tecnologia(2017-2025) pela Univerdade Federal do Rio Grande do Norte, cursando a graduação de Biblioteconomia(2026-), pela mesma universidade. No momento com objetivo de ser uma excelente profissional com a intenção de alimentar essa área que formenta tantas outras, organizando, disseminando e permitindo o progresso de nossos conhecimentos.
+### Oi! Meu nome é Monica, graduada em Ciência e Tecnologia(2017-2025) pela Univerdade Federal do Rio Grande do Norte, cursando a graduação de Biblioteconomia(2026-), pela mesma universidade. No momento com objetivo de ser uma excelente profissional com a intenção de alimentar essa área que formenta tantas outras, organizando, disseminando e permitindo o progresso de nossos conhecimentos, principalmente com o acesso aberto da informação.
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Vamos aprender juntos e sempre compartilhar conhecimento para melhorar o mundo juntos!!! 
 
