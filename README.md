@@ -1,86 +1,63 @@
-### Oi! Meu nome é Monica, graduada em Ciência e Tecnologia(2017-2025) pela Univerdade Federal do Rio Grande do Norte, cursando a graduação de Biblioteconomia(2026-), pela mesma universidade. No momento com objetivo de ser uma excelente profissional com a intenção de alimentar essa área que formenta tantas outras, organizando, disseminando e permitindo o progresso de nossos conhecimentos, principalmente com o acesso aberto da informação.
+# Olá! Eu sou Monica Lima de Paiva 👋
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> Vamos aprender juntos e sempre compartilhar conhecimento para melhorar o mundo juntos!!! 
+🎓 Estudante do **Técnico em Tecnologia da Informação** no Instituto Metrópole Digital (IMD/UFRN).
 
-</br>
+🎓 Graduada em **Ciência e Tecnologia** pela Universidade Federal do Rio Grande do Norte (UFRN).
 
-## Tecnologias que eu uso no meu dia
+📚 Graduanda em **Biblioteconomia** pela UFRN.
 
-<div style="display: inline_block">
-  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img align="center" alt="ts" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-</div><br/>
+💻 Atuo há mais de **10 anos no Portal de Periódicos Eletrônicos da UFRN**, oferecendo suporte técnico, administração da plataforma **Open Journal Systems (OJS/PKP)**, atendimento a usuários e apoio à gestão de periódicos científicos.
 
+Atualmente, estou direcionando minha carreira para a área de **Tecnologia da Informação**, buscando oportunidades de estágio para aplicar e ampliar meus conhecimentos em suporte técnico, desenvolvimento de software, banco de dados, infraestrutura e tecnologias web.
 
-## 💬 Linguagens já estudada: </p>
-<table align="center">
-    <tr>
-        <th  colspan="2">Linguagens</th>
-        <th  colspan="2">Linguagens</th>
-    </tr>
-  <tr>
-    <td>HTML</td>
-    <td><img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg"/></td>
-    <td>CSS</td>
-    <td><img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg"/></td>
-</tr>
-<tr>
-    <td>Less</td>
-    <td><img height="64px" src="https://cdn.svgporn.com/logos/less.svg"></td>
-    <td>Bootstrap</td>
-    <td><img height="64px" src="https://getbootstrap.com/docs/5.2/assets/brand/bootstrap-logo-shadow.png"></td>
-</tr>
-<tr>
-    <td>JavaScript</td>
-    <td><img height="64px" src="https://cdn.svgporn.com/logos/javascript.svg"></td>
-    <td>TypeScript</td>
-    <td><img height="64px" src="https://w7.pngwing.com/pngs/915/519/png-transparent-typescript-hd-logo-thumbnail.png"></td>
-</tr>
-<tr> 
-    <td>Node.js</td>
-    <td><img height="64px" src="https://nodejs.org/static/images/logo.svg"></td>
-    <td>React</td>
-    <td><img height="64px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></td>
-</tr>
-<tr> 
-    <td>Git</td>
-    <td><img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg"></td>
-    <td></td>
-    <td><img height="64px" src=""></td>
-</tr>
-<tr>
-    <td>PHP</td>
-    <td><img height="64px" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></td>
-    <td>Python</td>
-    <td><img height="64px" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></td>
-</tr>
-<tr>
-    <td>Java</td>
-    <td><img height="64px" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></td>
-    <td>Potigol</td>
-    <td><img height="64px" src="https://pbs.twimg.com/profile_images/932637501977710592/WMGBmW7k_400x400.jpg"></td>
-</tr>
-<tr>
-    <td>OCaml</td>
-    <td><img height="64px" src="https://www.vectorlogo.zone/logos/ocaml/ocaml-ar21.svg"></td>
-    <td>C++</td>
-    <td><img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png"></td>
-</tr>
-</table>
-<p align="center"> 
-  Visitantes<br>
-  <img src="https://profile-counter.glitch.me/monicalpaiva/count.svg"/>
-   
-</p>
+---
 
-<div align="center">
-  
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+## 🚀 Tecnologias e Ferramentas
 
-<h1  align="center"> Atualizado em 14/05/2026 </h1>
+* Linux
+* Windows
+* Git & GitHub
+* HTML e CSS
+* Python *(em aprendizado)*
+* Banco de Dados *(SQL)*
+* Redes de Computadores
+* Microsoft Office
+* Google Workspace
+* Open Journal Systems (OJS/PKP)
+
+---
+
+## 💼 Experiência
+
+**Portal de Periódicos Eletrônicos – UFRN**
+
+* Suporte técnico aos usuários da plataforma OJS/PKP
+* Administração de usuários e periódicos científicos
+* Atendimento remoto e presencial
+* Documentação técnica
+* Organização de dados
+* Apoio à implantação e manutenção de sistemas
+* Desenvolvimento e customização de funcionalidades para o OJS
+
+---
+
+## 📖 Atualmente estudando
+
+* Programação em Python
+* Desenvolvimento Web
+* Banco de Dados
+* Git e GitHub
+* Redes de Computadores
+* Sistemas Operacionais Linux
+
+---
+
+## 🎯 Objetivo
+
+Busco uma oportunidade de **estágio em Tecnologia da Informação**, onde eu possa contribuir com minha experiência em suporte técnico e administração de sistemas, ao mesmo tempo em que desenvolvo competências em programação, infraestrutura e desenvolvimento de software.
+
+---
+
+📍 Natal – RN – Brasil
+
+🔗 LinkedIn: *(adicione o link quando criar ou atualizar seu perfil)*
