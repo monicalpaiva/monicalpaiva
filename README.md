@@ -18,12 +18,11 @@ Minha trajetória reúne conhecimentos em gestão da informação, comunicação
 * Windows
 * Git & GitHub
 * HTML e CSS
-* Python *(em aprendizado)*
-* Banco de Dados *(SQL)*
-* Redes de Computadores
 * Microsoft Office
 * Google Workspace
 * Open Journal Systems (OJS/PKP)
+* Desenvolvimento Web
+* Banco de Dados
 
 ---
 
@@ -32,32 +31,29 @@ Minha trajetória reúne conhecimentos em gestão da informação, comunicação
 **Portal de Periódicos Eletrônicos – UFRN**
 
 * Suporte técnico aos usuários da plataforma OJS/PKP
+* Desenvolvimento e customização de funcionalidades para o OJS
 * Administração de usuários e periódicos científicos
 * Atendimento remoto e presencial
 * Documentação técnica
 * Organização de dados
 * Apoio à implantação e manutenção de sistemas
-* Desenvolvimento e customização de funcionalidades para o OJS
 
 ---
 
 ## 📖 Atualmente estudando
 
 * Programação em Python
-* Desenvolvimento Web
-* Banco de Dados
-* Git e GitHub
 * Redes de Computadores
-* Sistemas Operacionais Linux
+* Banco de Dados (SQL)
 
 ---
 
 ## 🎯 Objetivo
 
-Busco uma oportunidade de **estágio em Tecnologia da Informação**, onde eu possa contribuir com minha experiência em suporte técnico e administração de sistemas, ao mesmo tempo em que desenvolvo competências em programação, infraestrutura e desenvolvimento de software.
+Atuar como estagiária nas áreas de Biblioteconomia, Gestão da Informação, Periódicos Científicos ou Tecnologia da Informação, contribuindo com minha experiência em suporte técnico, administração de sistemas, gestão da informação e atendimento a usuários. Busco desenvolver soluções que integrem tecnologia e organização da informação, colaborando com equipes comprometidas com a inovação, a qualidade dos serviços e a disseminação do conhecimento.
 
 ---
 
 📍 Natal – RN – Brasil
 
-🔗 LinkedIn: *(adicione o link quando criar ou atualizar seu perfil)*
+🔗 LinkedIn: *https://www.linkedin.com/in/m%C3%B4nica-paiva-052a262ba/*
