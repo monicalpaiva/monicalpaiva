@@ -8,7 +8,7 @@
 
 💻 Atuo há mais de **10 anos no Portal de Periódicos Eletrônicos da UFRN**, oferecendo suporte técnico, administração da plataforma **Open Journal Systems (OJS/PKP)**, atendimento a usuários e apoio à gestão de periódicos científicos.
 
-Atualmente, estou direcionando minha carreira para a área de **Tecnologia da Informação**, buscando oportunidades de estágio para aplicar e ampliar meus conhecimentos em suporte técnico, desenvolvimento de software, banco de dados, infraestrutura e tecnologias web.
+Minha trajetória reúne conhecimentos em gestão da informação, comunicação científica e tecnologia, com experiência na administração de sistemas, organização de dados, suporte a usuários e utilização de ferramentas computacionais. Busco oportunidades de estágio ou atuação nas áreas de Biblioteconomia, Periódicos Científicos, Gestão da Informação ou Tecnologia da Informação, contribuindo para o desenvolvimento de soluções que integrem tecnologia, organização da informação e inovação em ambientes acadêmicos e institucionais.
 
 ---
 
